@@ -3,6 +3,6 @@
 *.o
 #*#
 
-./lib/
-./share/
-./bin/
+lib/
+share/
+bin/
