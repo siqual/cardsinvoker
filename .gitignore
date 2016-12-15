@@ -2,7 +2,12 @@
 *.pyc
 *.o
 #*#
+*.sh
+pip-selfcheck.json
 
 lib/
 share/
 bin/
+
+__py_cache__/
+__pycache__/
